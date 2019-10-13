@@ -6,6 +6,10 @@
 you can make simple API server.
 
 1. select your root directory.
+2. add your index.json or error.json in root directory or child directroy
+
+![mock-server](https://github.com/joon610/readMEImg/blob/master/mock-server/root-directory.png)
+
 
 
 
