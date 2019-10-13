@@ -3,6 +3,14 @@
 ![mock-server](https://github.com/joon610/readMEImg/blob/master/mock-server/mock-server.gif)
 
 
+you can make simple API server.
+
+1. select your root directory.
+
+
+
+
+
 ## Project setup
 ```
 yarn install
