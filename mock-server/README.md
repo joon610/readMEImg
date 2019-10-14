@@ -7,10 +7,10 @@
 
 1. make root directory.
 2. make child directory and add json(index.json) files in child directory.
-![mock-directroy](https://github.com/joon610/readMEImg/blob/master/mock-server/mock-directory.png)
+<img src="https://github.com/joon610/readMEImg/blob/master/mock-server/mock-directory.png" width="50%" height="50%">
 3. open Mock-Server and select root directory
 4. you can get API list!
-<img src="https://github.com/joon610/readMEImg/blob/master/mock-server/mock-server.png" width="50%" height="50%">
+<img src="https://github.com/joon610/readMEImg/blob/master/mock-server/mock-server.png" width="30%" height="30%">
 
 5. Directory becomes a API server as follows 
     - /Users/jungdong-joon/Downloads/root        ==  http://loacalhost:9000/
